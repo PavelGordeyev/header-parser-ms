@@ -1,14 +1,14 @@
 {
-  "name": "headerparser-microservice",
-  "version": "0.0.1",
+  "name": "header-parser",
+  "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "engines": {
-    "node": "5.9.1"
+    "node": "6.4.0"
   },
   "scripts": {
     "start": "node app.js"
   },
-  "author": "PavelGordeyev",
+  "author": "",
   "license": "ISC"
 }
